@@ -13,7 +13,13 @@ I built this project utilizing multiple javascript pages, MongoDB, schema and gi
 Here is the screentastify video link demonstrating the app functioning in "Insomnia" https://drive.google.com/file/d/1R3jpSubsFAJDgASqbogEIl-77YUaiTaA/view
 
 
+![Social Network API picture 1](https://user-images.githubusercontent.com/101435334/173712950-729a66b6-2769-4847-a8ab-cf02af32adeb.jpg)
 
+![Social Network API picture 2](https://user-images.githubusercontent.com/101435334/173713017-703e5462-7574-4e32-a593-5fd8f8676166.jpg)
+
+![Social Network API picture 3](https://user-images.githubusercontent.com/101435334/173713069-ecc90e9e-e02a-48bf-983c-87c2e3d6c658.jpg)
+
+![Social Network API picture 4](https://user-images.githubusercontent.com/101435334/173713169-8996aa48-6d89-4aa1-81fa-5f46a8172e4b.jpg)
 
 
 Deployed utilizng insomnia
