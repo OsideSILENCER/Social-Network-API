@@ -10,8 +10,8 @@ I built this project utilizing multiple javascript pages, MongoDB, schema and gi
 
 #Credits
 
-Here is the screentastify video link demonstrating the app functioning in "Insomnia" https://drive.google.com/file/d/1R3jpSubsFAJDgASqbogEIl-77YUaiTaA/view
 
+Deployed utilizng insomnia
 
 ![Social Network API picture 1](https://user-images.githubusercontent.com/101435334/173712950-729a66b6-2769-4847-a8ab-cf02af32adeb.jpg)
 
@@ -22,7 +22,8 @@ Here is the screentastify video link demonstrating the app functioning in "Insom
 ![Social Network API picture 4](https://user-images.githubusercontent.com/101435334/173713169-8996aa48-6d89-4aa1-81fa-5f46a8172e4b.jpg)
 
 
-Deployed utilizng insomnia
+Here is the screentastify video link demonstrating the app functioning in "Insomnia"
+
 
 https://drive.google.com/file/d/1LgUvyZV7eiHfgrLAyRAORKZcTmc-Aefz/view
 
