@@ -6,14 +6,14 @@ const thoughtSchema = new Schema(
   {
     thoughtText: {
       type: String,
-      required: 'You need to leave a thought!',
+      required: 'Leave a thought',
       minlength: 1,
-      maxlength: 280
+      maxlength: 200
     },
     createdAt: {
       type: Date,
       default: Date.now,
-      get: timestamp => dateFormat(timestamp)
+      get: (createdAt) => moment(createdAt).format("MMM DD, YYYY")
     },
     username: {
       type: String,
